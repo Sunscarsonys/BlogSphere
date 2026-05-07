@@ -51,7 +51,7 @@ const Home = () => {
           </p>
 
           <h1 className="font-heading text-5xl leading-tight text-slate-900 sm:text-5xl md:text-6xl lg:text-7xl">
-            Stories with Sanskar Soni
+            Stories with a premium reading experience
           </h1>
 
           <p className="mx-auto max-w-2xl text-base leading-relaxed text-slate-600 md:text-lg">
